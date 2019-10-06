@@ -1,0 +1,349 @@
+LAD16CD,LAD16NM,PFA16CD,PFA16NM
+E07000144,Broadland,E23000024,Norfolk
+E07000006,South Bucks,E23000029,Thames Valley
+E07000213,Spelthorne,E23000031,Surrey
+E07000145,Great Yarmouth,E23000024,Norfolk
+E07000214,Surrey Heath,E23000031,Surrey
+E07000007,Wycombe,E23000029,Thames Valley
+E07000008,Cambridge,E23000023,Cambridgeshire
+E07000215,Tandridge,E23000031,Surrey
+E07000146,King's Lynn and West Norfolk,E23000024,Norfolk
+E08000034,Kirklees,E23000010,West Yorkshire
+E07000009,East Cambridgeshire,E23000023,Cambridgeshire
+E07000216,Waverley,E23000031,Surrey
+E07000147,North Norfolk,E23000024,Norfolk
+E08000035,Leeds,E23000010,West Yorkshire
+E07000084,Basingstoke and Deane,E23000030,Hampshire
+E07000148,Norwich,E23000024,Norfolk
+E08000036,Wakefield,E23000010,West Yorkshire
+E07000085,East Hampshire,E23000030,Hampshire
+E07000217,Woking,E23000031,Surrey
+E07000010,Fenland,E23000023,Cambridgeshire
+E07000149,South Norfolk,E23000024,Norfolk
+E09000001,City of London,E23000034,City of London
+E07000086,Eastleigh,E23000030,Hampshire
+E07000218,North Warwickshire,E23000017,Warwickshire
+E07000150,Corby,E23000022,Northamptonshire
+E07000011,Huntingdonshire,E23000023,Cambridgeshire
+E09000002,Barking and Dagenham,E23000001,Metropolitan Police
+E07000219,Nuneaton and Bedworth,E23000017,Warwickshire
+E07000087,Fareham,E23000030,Hampshire
+E07000151,Daventry,E23000022,Northamptonshire
+E09000003,Barnet,E23000001,Metropolitan Police
+E07000220,Rugby,E23000017,Warwickshire
+E06000001,Hartlepool,E23000013,Cleveland
+E07000012,South Cambridgeshire,E23000023,Cambridgeshire
+E07000088,Gosport,E23000030,Hampshire
+E07000152,East Northamptonshire,E23000022,Northamptonshire
+E09000004,Bexley,E23000001,Metropolitan Police
+E07000221,Stratford-on-Avon,E23000017,Warwickshire
+E06000002,Middlesbrough,E23000013,Cleveland
+E07000089,Hart,E23000030,Hampshire
+E07000026,Allerdale,E23000002,Cumbria
+E07000153,Kettering,E23000022,Northamptonshire
+E07000222,Warwick,E23000017,Warwickshire
+E09000005,Brent,E23000001,Metropolitan Police
+E06000003,Redcar and Cleveland,E23000013,Cleveland
+E07000090,Havant,E23000030,Hampshire
+E07000154,Northampton,E23000022,Northamptonshire
+E07000027,Barrow-in-Furness,E23000002,Cumbria
+E07000223,Adur,E23000033,Sussex
+E09000006,Bromley,E23000001,Metropolitan Police
+E06000004,Stockton-on-Tees,E23000013,Cleveland
+E07000155,South Northamptonshire,E23000022,Northamptonshire
+E07000091,New Forest,E23000030,Hampshire
+E07000028,Carlisle,E23000002,Cumbria
+E07000224,Arun,E23000033,Sussex
+E09000007,Camden,E23000001,Metropolitan Police
+E07000156,Wellingborough,E23000022,Northamptonshire
+E06000005,Darlington,E23000008,Durham
+E07000029,Copeland,E23000002,Cumbria
+E07000092,Rushmoor,E23000030,Hampshire
+E07000225,Chichester,E23000033,Sussex
+E09000008,Croydon,E23000001,Metropolitan Police
+E07000163,Craven,E23000009,North Yorkshire
+E07000226,Crawley,E23000033,Sussex
+E06000006,Halton,E23000006,Cheshire
+E07000093,Test Valley,E23000030,Hampshire
+E07000030,Eden,E23000002,Cumbria
+E09000009,Ealing,E23000001,Metropolitan Police
+E07000164,Hambleton,E23000009,North Yorkshire
+E07000227,Horsham,E23000033,Sussex
+E06000007,Warrington,E23000006,Cheshire
+E07000165,Harrogate,E23000009,North Yorkshire
+E07000031,South Lakeland,E23000002,Cumbria
+E09000010,Enfield,E23000001,Metropolitan Police
+E07000094,Winchester,E23000030,Hampshire
+E06000008,Blackburn with Darwen,E23000003,Lancashire
+E07000228,Mid Sussex,E23000033,Sussex
+E07000166,Richmondshire,E23000009,North Yorkshire
+E07000032,Amber Valley,E23000018,Derbyshire
+E09000011,Greenwich,E23000001,Metropolitan Police
+E07000095,Broxbourne,E23000027,Hertfordshire
+E06000009,Blackpool,E23000003,Lancashire
+E07000229,Worthing,E23000033,Sussex
+E07000167,Ryedale,E23000009,North Yorkshire
+E07000033,Bolsover,E23000018,Derbyshire
+E09000012,Hackney,E23000001,Metropolitan Police
+E07000096,Dacorum,E23000027,Hertfordshire
+E07000234,Bromsgrove,E23000016,West Mercia
+E06000011,East Riding of Yorkshire,E23000012,Humberside
+E07000168,Scarborough,E23000009,North Yorkshire
+E09000013,Hammersmith and Fulham,E23000001,Metropolitan Police
+E07000242,East Hertfordshire,E23000027,Hertfordshire
+E07000235,Malvern Hills,E23000016,West Mercia
+E07000034,Chesterfield,E23000018,Derbyshire
+E07000169,Selby,E23000009,North Yorkshire
+E06000010,"Kingston upon Hull, City of",E23000012,Humberside
+E07000098,Hertsmere,E23000027,Hertfordshire
+E09000014,Haringey,E23000001,Metropolitan Police
+E07000236,Redditch,E23000016,West Mercia
+E06000012,North East Lincolnshire,E23000012,Humberside
+E07000099,North Hertfordshire,E23000027,Hertfordshire
+E07000035,Derbyshire Dales,E23000018,Derbyshire
+E07000170,Ashfield,E23000019,Nottinghamshire
+E09000015,Harrow,E23000001,Metropolitan Police
+E07000237,Worcester,E23000016,West Mercia
+E07000243,Stevenage,E23000027,Hertfordshire
+E09000016,Havering,E23000001,Metropolitan Police
+E07000171,Bassetlaw,E23000019,Nottinghamshire
+E07000036,Erewash,E23000018,Derbyshire
+E06000013,North Lincolnshire,E23000012,Humberside
+E09000017,Hillingdon,E23000001,Metropolitan Police
+E07000238,Wychavon,E23000016,West Mercia
+E07000102,Three Rivers,E23000027,Hertfordshire
+E07000172,Broxtowe,E23000019,Nottinghamshire
+E07000037,High Peak,E23000018,Derbyshire
+E06000014,York,E23000009,North Yorkshire
+E09000018,Hounslow,E23000001,Metropolitan Police
+E07000239,Wyre Forest,E23000016,West Mercia
+E07000103,Watford,E23000027,Hertfordshire
+E07000038,North East Derbyshire,E23000018,Derbyshire
+E09000019,Islington,E23000001,Metropolitan Police
+E06000015,Derby,E23000018,Derbyshire
+E07000173,Gedling,E23000019,Nottinghamshire
+E07000240,St Albans,E23000027,Hertfordshire
+E06000016,Leicester,E23000021,Leicestershire
+E07000174,Mansfield,E23000019,Nottinghamshire
+E09000020,Kensington and Chelsea,E23000001,Metropolitan Police
+E07000105,Ashford,E23000032,Kent
+E07000039,South Derbyshire,E23000018,Derbyshire
+E07000241,Welwyn Hatfield,E23000027,Hertfordshire
+E07000175,Newark and Sherwood,E23000019,Nottinghamshire
+E06000017,Rutland,E23000021,Leicestershire
+E09000021,Kingston upon Thames,E23000001,Metropolitan Police
+E07000106,Canterbury,E23000032,Kent
+E07000040,East Devon,E23000035,Devon and Cornwall
+E08000001,Bolton,E23000005,Greater Manchester
+E06000018,Nottingham,E23000019,Nottinghamshire
+E07000176,Rushcliffe,E23000019,Nottinghamshire
+E09000022,Lambeth,E23000001,Metropolitan Police
+E07000107,Dartford,E23000032,Kent
+E07000041,Exeter,E23000035,Devon and Cornwall
+E08000002,Bury,E23000005,Greater Manchester
+E06000019,"Herefordshire, County of",E23000016,West Mercia
+E09000023,Lewisham,E23000001,Metropolitan Police
+E07000108,Dover,E23000032,Kent
+E07000177,Cherwell,E23000029,Thames Valley
+E07000042,Mid Devon,E23000035,Devon and Cornwall
+E08000003,Manchester,E23000005,Greater Manchester
+E09000024,Merton,E23000001,Metropolitan Police
+E07000109,Gravesham,E23000032,Kent
+E06000020,Telford and Wrekin,E23000016,West Mercia
+E07000178,Oxford,E23000029,Thames Valley
+E07000043,North Devon,E23000035,Devon and Cornwall
+E08000004,Oldham,E23000005,Greater Manchester
+E09000025,Newham,E23000001,Metropolitan Police
+E07000044,South Hams,E23000035,Devon and Cornwall
+E07000179,South Oxfordshire,E23000029,Thames Valley
+E07000110,Maidstone,E23000032,Kent
+E06000021,Stoke-on-Trent,E23000015,Staffordshire
+E09000026,Redbridge,E23000001,Metropolitan Police
+E08000005,Rochdale,E23000005,Greater Manchester
+E07000045,Teignbridge,E23000035,Devon and Cornwall
+E07000180,Vale of White Horse,E23000029,Thames Valley
+E09000027,Richmond upon Thames,E23000001,Metropolitan Police
+E06000022,Bath and North East Somerset,E23000036,Avon and Somerset
+E07000111,Sevenoaks,E23000032,Kent
+E08000006,Salford,E23000005,Greater Manchester
+E07000046,Torridge,E23000035,Devon and Cornwall
+E07000181,West Oxfordshire,E23000029,Thames Valley
+E09000028,Southwark,E23000001,Metropolitan Police
+E06000023,"Bristol, City of",E23000036,Avon and Somerset
+E07000112,Shepway,E23000032,Kent
+E07000047,West Devon,E23000035,Devon and Cornwall
+E09000029,Sutton,E23000001,Metropolitan Police
+E07000187,Mendip,E23000036,Avon and Somerset
+E08000007,Stockport,E23000005,Greater Manchester
+E06000024,North Somerset,E23000036,Avon and Somerset
+E07000113,Swale,E23000032,Kent
+E09000030,Tower Hamlets,E23000001,Metropolitan Police
+E08000008,Tameside,E23000005,Greater Manchester
+E07000188,Sedgemoor,E23000036,Avon and Somerset
+E07000048,Christchurch,E23000039,Dorset
+E06000025,South Gloucestershire,E23000036,Avon and Somerset
+E07000114,Thanet,E23000032,Kent
+E08000009,Trafford,E23000005,Greater Manchester
+E09000031,Waltham Forest,E23000001,Metropolitan Police
+E07000189,South Somerset,E23000036,Avon and Somerset
+E07000049,East Dorset,E23000039,Dorset
+E06000026,Plymouth,E23000035,Devon and Cornwall
+E07000115,Tonbridge and Malling,E23000032,Kent
+E09000032,Wandsworth,E23000001,Metropolitan Police
+E07000190,Taunton Deane,E23000036,Avon and Somerset
+E08000010,Wigan,E23000005,Greater Manchester
+E07000050,North Dorset,E23000039,Dorset
+E07000116,Tunbridge Wells,E23000032,Kent
+E06000027,Torbay,E23000035,Devon and Cornwall
+E09000033,Westminster,E23000001,Metropolitan Police
+E08000011,Knowsley,E23000004,Merseyside
+E07000191,West Somerset,E23000036,Avon and Somerset
+E07000051,Purbeck,E23000039,Dorset
+E07000117,Burnley,E23000003,Lancashire
+W06000001,Isle of Anglesey,W15000001,North Wales
+E08000012,Liverpool,E23000004,Merseyside
+E06000028,Bournemouth,E23000039,Dorset
+E07000192,Cannock Chase,E23000015,Staffordshire
+E07000052,West Dorset,E23000039,Dorset
+E07000118,Chorley,E23000003,Lancashire
+E08000014,Sefton,E23000004,Merseyside
+W06000002,Gwynedd,W15000001,North Wales
+E07000119,Fylde,E23000003,Lancashire
+E06000029,Poole,E23000039,Dorset
+E08000013,St. Helens,E23000004,Merseyside
+W06000003,Conwy,W15000001,North Wales
+E07000053,Weymouth and Portland,E23000039,Dorset
+E07000193,East Staffordshire,E23000015,Staffordshire
+E07000120,Hyndburn,E23000003,Lancashire
+E06000030,Swindon,E23000038,Wiltshire
+W06000004,Denbighshire,W15000001,North Wales
+E07000194,Lichfield,E23000015,Staffordshire
+E08000015,Wirral,E23000004,Merseyside
+E07000061,Eastbourne,E23000033,Sussex
+E07000121,Lancaster,E23000003,Lancashire
+E06000031,Peterborough,E23000023,Cambridgeshire
+E08000016,Barnsley,E23000011,South Yorkshire
+E07000195,Newcastle-under-Lyme,E23000015,Staffordshire
+W06000005,Flintshire,W15000001,North Wales
+E07000062,Hastings,E23000033,Sussex
+E07000122,Pendle,E23000003,Lancashire
+E06000032,Luton,E23000026,Bedfordshire
+E08000017,Doncaster,E23000011,South Yorkshire
+E07000196,South Staffordshire,E23000015,Staffordshire
+W06000006,Wrexham,W15000001,North Wales
+E07000063,Lewes,E23000033,Sussex
+E07000123,Preston,E23000003,Lancashire
+E08000018,Rotherham,E23000011,South Yorkshire
+E07000197,Stafford,E23000015,Staffordshire
+E06000033,Southend-on-Sea,E23000028,Essex
+W06000008,Ceredigion,W15000004,Dyfed-Powys
+E07000064,Rother,E23000033,Sussex
+E07000198,Staffordshire Moorlands,E23000015,Staffordshire
+E08000019,Sheffield,E23000011,South Yorkshire
+E07000124,Ribble Valley,E23000003,Lancashire
+E06000034,Thurrock,E23000028,Essex
+W06000009,Pembrokeshire,W15000004,Dyfed-Powys
+E07000199,Tamworth,E23000015,Staffordshire
+E07000065,Wealden,E23000033,Sussex
+E08000037,Gateshead,E23000007,Northumbria
+E07000125,Rossendale,E23000003,Lancashire
+E06000035,Medway,E23000032,Kent
+E07000200,Babergh,E23000025,Suffolk
+W06000010,Carmarthenshire,W15000004,Dyfed-Powys
+E07000066,Basildon,E23000028,Essex
+E07000201,Forest Heath,E23000025,Suffolk
+E08000021,Newcastle upon Tyne,E23000007,Northumbria
+E07000126,South Ribble,E23000003,Lancashire
+E06000036,Bracknell Forest,E23000029,Thames Valley
+W06000011,Swansea,W15000003,South Wales
+E07000202,Ipswich,E23000025,Suffolk
+E07000067,Braintree,E23000028,Essex
+E07000127,West Lancashire,E23000003,Lancashire
+E08000022,North Tyneside,E23000007,Northumbria
+E06000037,West Berkshire,E23000029,Thames Valley
+W06000012,Neath Port Talbot,W15000003,South Wales
+E07000203,Mid Suffolk,E23000025,Suffolk
+E07000068,Brentwood,E23000028,Essex
+E08000023,South Tyneside,E23000007,Northumbria
+E07000128,Wyre,E23000003,Lancashire
+E06000038,Reading,E23000029,Thames Valley
+W06000013,Bridgend,W15000003,South Wales
+E07000204,St Edmundsbury,E23000025,Suffolk
+E07000069,Castle Point,E23000028,Essex
+E08000024,Sunderland,E23000007,Northumbria
+E07000129,Blaby,E23000021,Leicestershire
+E06000039,Slough,E23000029,Thames Valley
+W06000014,Vale of Glamorgan,W15000003,South Wales
+E07000205,Suffolk Coastal,E23000025,Suffolk
+E07000070,Chelmsford,E23000028,Essex
+E08000025,Birmingham,E23000014,West Midlands
+E07000130,Charnwood,E23000021,Leicestershire
+E06000040,Windsor and Maidenhead,E23000029,Thames Valley
+W06000015,Cardiff,W15000003,South Wales
+E07000206,Waveney,E23000025,Suffolk
+E08000026,Coventry,E23000014,West Midlands
+E06000041,Wokingham,E23000029,Thames Valley
+E07000131,Harborough,E23000021,Leicestershire
+E07000071,Colchester,E23000028,Essex
+E07000207,Elmbridge,E23000031,Surrey
+W06000016,Rhondda Cynon Taf,W15000003,South Wales
+E08000027,Dudley,E23000014,West Midlands
+E06000042,Milton Keynes,E23000029,Thames Valley
+E07000132,Hinckley and Bosworth,E23000021,Leicestershire
+E07000072,Epping Forest,E23000028,Essex
+E07000208,Epsom and Ewell,E23000031,Surrey
+E06000043,Brighton and Hove,E23000033,Sussex
+E07000133,Melton,E23000021,Leicestershire
+E08000028,Sandwell,E23000014,West Midlands
+W06000018,Caerphilly,W15000002,Gwent
+E07000073,Harlow,E23000028,Essex
+E07000209,Guildford,E23000031,Surrey
+E06000044,Portsmouth,E23000030,Hampshire
+E07000134,North West Leicestershire,E23000021,Leicestershire
+E08000029,Solihull,E23000014,West Midlands
+E07000135,Oadby and Wigston,E23000021,Leicestershire
+E07000210,Mole Valley,E23000031,Surrey
+E06000045,Southampton,E23000030,Hampshire
+E07000074,Maldon,E23000028,Essex
+E07000211,Reigate and Banstead,E23000031,Surrey
+W06000019,Blaenau Gwent,W15000002,Gwent
+E06000046,Isle of Wight,E23000030,Hampshire
+E07000136,Boston,E23000020,Lincolnshire
+E08000030,Walsall,E23000014,West Midlands
+E07000075,Rochford,E23000028,Essex
+E07000212,Runnymede,E23000031,Surrey
+E07000076,Tendring,E23000028,Essex
+E07000137,East Lindsey,E23000020,Lincolnshire
+E06000047,County Durham,E23000008,Durham
+E08000031,Wolverhampton,E23000014,West Midlands
+W06000020,Torfaen,W15000002,Gwent
+E07000077,Uttlesford,E23000028,Essex
+E06000057,Northumberland,E23000007,Northumbria
+E08000032,Bradford,E23000010,West Yorkshire
+E07000138,Lincoln,E23000020,Lincolnshire
+W06000021,Monmouthshire,W15000002,Gwent
+E07000078,Cheltenham,E23000037,Gloucestershire
+E06000049,Cheshire East,E23000006,Cheshire
+E08000033,Calderdale,E23000010,West Yorkshire
+E07000139,North Kesteven,E23000020,Lincolnshire
+E07000079,Cotswold,E23000037,Gloucestershire
+E06000050,Cheshire West and Chester,E23000006,Cheshire
+E07000140,South Holland,E23000020,Lincolnshire
+W06000022,Newport,W15000002,Gwent
+E07000080,Forest of Dean,E23000037,Gloucestershire
+E06000051,Shropshire,E23000016,West Mercia
+E07000141,South Kesteven,E23000020,Lincolnshire
+E07000081,Gloucester,E23000037,Gloucestershire
+E06000052,Cornwall,E23000035,Devon and Cornwall
+E07000142,West Lindsey,E23000020,Lincolnshire
+W06000023,Powys,W15000004,Dyfed-Powys
+E07000082,Stroud,E23000037,Gloucestershire
+E06000053,Isles of Scilly,E23000035,Devon and Cornwall
+E07000083,Tewkesbury,E23000037,Gloucestershire
+E07000143,Breckland,E23000024,Norfolk
+W06000024,Merthyr Tydfil,W15000003,South Wales
+E06000054,Wiltshire,E23000038,Wiltshire
+E06000055,Bedford,E23000026,Bedfordshire
+E06000056,Central Bedfordshire,E23000026,Bedfordshire
+E07000004,Aylesbury Vale,E23000029,Thames Valley
+E07000005,Chiltern,E23000029,Thames Valley
